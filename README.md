@@ -44,6 +44,17 @@ Whatsapp-Chat-Mining is a Python-based toolset for extracting, preprocessing, an
 
 Contributions are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
+
+## Demo Video
+
+[![Demo Video](https://github.com/maruthi718/Whatsapp-Chat-Mining/raw/main/demo_video.mp4)
+Click the image above to watch the demo video.
+
+## Features
+
+- **Data Extraction**: Extracts chat data from WhatsApp
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
