@@ -1,0 +1,185 @@
+12/3/23, 4:35 PM - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+12/3/23, 4:35 PM - Sushant Tech OdinEye is a contact
+12/3/23, 4:35 PM - Sushant Tech OdinEye: Hi Nikhil, 
+Sushant here. Lets start at 5p.m
+https://meet.google.com/gau-bszd-wso
+12/3/23, 4:35 PM - Nikhil: Okay sir
+12/5/23, 11:39 AM - Nikhil: Hello sir good morning
+12/5/23, 11:40 AM - Nikhil: You said suneel sir will be reaching me, he still hasn't may I know ?
+12/5/23, 11:43 AM - Sushant Tech OdinEye: Hi nikhil, he will reach out to you within a day or 2.
+12/5/23, 11:44 AM - Nikhil: Okay, thank you sir
+12/8/23, 2:52 AM - Nikhil: Sir actually the photos generated are 2048 × 2048 size but the cat is sized in a rectangle 303 × 511 those photos will not be fitted in the cat place,,, 
+
+I am thinking that either calendar template needs to be changed or sunil sir already said that photos can be  generated with any size so either it will be placed exactly..
+12/8/23, 2:53 AM - Nikhil: If there is any way to adjust, give me an idea I will try
+12/8/23, 8:02 AM - Sushant Tech OdinEye: 1 method is to resize those 12 photos to the size you want... you can do it in windows photo editor or online website like birme.net
+12/8/23, 8:05 AM - Sushant Tech OdinEye: Also that cat calender is very basic.. we just want to fit the images once for a good calender... you can use the cat calender for trying out the libraries but ultimately we want to use some calender with good design like the 2nd one sunil sent.. those are high resolution ones and you would be able to use 2048*2048 there <This message was edited>
+12/8/23, 8:07 AM - Sushant Tech OdinEye: So if you have a basic code.. find a few good templates, try to fit the images in them using your code (only 1 month/page will be sufficent) and share the templates in the group where we will finalise
+12/8/23, 8:08 AM - Sushant Tech OdinEye: For size you can also use cv2 resize method if your want to do it with code
+12/8/23, 8:35 AM - Nikhil: Okay sir i will update you..
+12/8/23, 2:53 PM - Nikhil: i reduced the size to cat size with PIL library but they are not lloking well if i reduce the size to that
+12/8/23, 2:53 PM - Nikhil: <Media omitted>
+12/8/23, 3:23 PM - Sushant Tech OdinEye: You would need to first crop to maintain aspect ratio
+12/8/23, 3:23 PM - Sushant Tech OdinEye: And then resize
+12/8/23, 3:24 PM - Sushant Tech OdinEye: But find some calender where we can use square images
+12/8/23, 3:24 PM - Sushant Tech OdinEye: Also lets discuss this in grp
+12/8/23, 3:24 PM - Nikhil: Yes sir would you be better idea
+12/8/23, 3:24 PM - Nikhil: Okay sir
+12/10/23, 12:55 PM - Nikhil: Hello sir
+12/10/23, 12:56 PM - Nikhil: I have tried with mail you have given but, only like koren humans are only being generated
+12/10/23, 2:45 PM - Sushant Tech OdinEye: Hn woh ek particularkoren idol par trained hai
+12/10/23, 2:46 PM - Sushant Tech OdinEye: So expected hai
+12/10/23, 2:52 PM - Nikhil: Sir, I don't understand Hindi 😅
+12/10/23, 3:29 PM - Sushant Tech OdinEye: That id has been trained on a korean celebrity, so it is expected that is is generating photos of korean human <This message was edited>
+12/10/23, 3:30 PM - Sushant Tech OdinEye: So you just have to assume that you will get 12 pictures lets say in folder and then your algorithm will add them to the calender and return a pdf
+12/10/23, 3:50 PM - Nikhil: Sure sir, that work has been done
+12/18/23, 10:19 PM - Sushant Tech OdinEye: null
+12/18/23, 11:38 PM - Nikhil: sir i have created a env for Calender and tested it, it asked for Image.LANCZOS so i have chnaged and updated in the branch i have created and before pr is there so please check sir
+12/18/23, 11:38 PM - Nikhil: now code is working fine
+12/18/23, 11:42 PM - Nikhil: and for the image_cropper also creating and env and do it and cloning from the git hub <This message was edited>
+12/18/23, 11:53 PM - Nikhil: i have cloned and created a branch named as nikhil
+12/19/23, 11:41 AM - Sushant Tech OdinEye: Great
+12/19/23, 8:01 PM - Nikhil: Hello sir
+12/19/23, 8:01 PM - Nikhil: I have seen the code and setup in my laptop and executed it
+12/19/23, 8:04 PM - Nikhil: And I have understood code but that aspect ratio logic is like bit confusing
+12/19/23, 8:04 PM - Nikhil: Now next what I have to do in the next step
+12/19/23, 8:27 PM - Sushant Tech OdinEye: Lets have a meet around 11?
+12/19/23, 8:30 PM - Nikhil: Okay sir
+12/19/23, 11:04 PM - Nikhil: Sir .. at what time it can be sir
+12/19/23, 11:04 PM - Sushant Tech OdinEye: Give me a few minutes.. setting a demo for you
+12/19/23, 11:04 PM - Nikhil: Okay sir
+12/19/23, 11:09 PM - Sushant Tech OdinEye: https://meet.google.com/izg-yrdy-qgn
+12/19/23, 11:10 PM - Sushant Tech OdinEye: you can join
+12/19/23, 11:11 PM - Nikhil: yes sir
+12/21/23, 2:02 AM - Nikhil: hello sir
+12/21/23, 2:08 AM - Nikhil: https://github.com/photogpt/image_cropper/tree/Nikhil
+12/22/23, 12:38 PM - Nikhil: Hello sir I haven't got any update to do further
+12/22/23, 12:38 PM - Sushant Tech OdinEye: Hi, i was busy yesterday, lets discuss today evening
+12/22/23, 12:39 PM - Nikhil: Haa okay sir
+12/22/23, 12:39 PM - Nikhil: And but Sunil sir still hasn't told me anything regarding calendar.
+12/22/23, 12:42 PM - Sushant Tech OdinEye: I pulled the code you committed in main branch.. it is working fine
+12/22/23, 12:42 PM - Sushant Tech OdinEye: Not merging your pr yet as it would require to update the library version
+12/22/23, 12:43 PM - Nikhil: Okay sir
+12/22/23, 12:44 PM - Nikhil: Yes sir ,I have seen sir, it is not merged
+12/22/23, 12:45 PM - Nikhil: At what time I should be available today
+12/22/23, 12:45 PM - Sushant Tech OdinEye: After 10 pm works?
+12/22/23, 12:45 PM - Nikhil: Sure sir always
+12/22/23, 12:45 PM - Sushant Tech OdinEye: I would prefer 11p.m if u r available
+12/22/23, 12:46 PM - Nikhil: I will be waking up until 2am to 3 am sir it is fine for me
+12/22/23, 12:47 PM - Sushant Tech OdinEye: Also since you have added face detection and matching, lets start working on cropping next.. lets say image has 2 faces, you identified which face to crop.. but during cropping some portion of the other face also comes.. lets try to prevent this <This message was edited>
+12/22/23, 12:48 PM - Sushant Tech OdinEye: You can start working on this, lets discuss everything in evening then
+12/22/23, 12:48 PM - Nikhil: Sure sir 👍
+12/22/23, 10:54 PM - Nikhil: Hello sir
+12/22/23, 10:56 PM - Sushant Tech OdinEye: Hi .. will send a link in 10 mins
+12/22/23, 10:58 PM - Nikhil: okay sir
+12/22/23, 11:05 PM - Sushant Tech OdinEye: https://meet.google.com/zwk-jjsf-bmi
+12/22/23, 11:05 PM - Sushant Tech OdinEye: Please join <This message was edited>
+12/22/23, 11:07 PM - Nikhil: https://github.com/photogpt/image_cropper/tree/Nikhil
+12/27/23, 9:48 AM - Sushant Tech OdinEye: Hi nikhil, any updates?
+12/27/23, 9:48 AM - Nikhil: Yes sir
+12/27/23, 9:48 AM - Nikhil: Good morning sir
+12/27/23, 9:49 AM - Nikhil: Today we can have a meeting sir, I thought of yesterday itself it became too late for me so, I could not ask you
+12/27/23, 10:41 AM - Sushant Tech OdinEye: Cool lets meet tonight
+12/27/23, 10:41 AM - Sushant Tech OdinEye: Is it all integrated like we discussed last time?
+12/27/23, 10:46 AM - Nikhil: yes I have done but some issues were there, i will try to sort out before meeting
+12/27/23, 10:17 PM - Sushant Tech OdinEye: Hi
+12/27/23, 10:17 PM - Nikhil: hello sir
+12/27/23, 10:17 PM - Sushant Tech OdinEye: When r u available for meet
+12/27/23, 10:18 PM - Nikhil: now i am avaliable sir
+12/27/23, 10:20 PM - Sushant Tech OdinEye: Will send u a link in 10 mins
+12/27/23, 10:24 PM - Nikhil: okay sir
+12/27/23, 10:28 PM - Sushant Tech OdinEye: https://meet.google.com/vnw-answ-ojs
+12/27/23, 10:28 PM - Sushant Tech OdinEye: you can join now
+12/27/23, 10:29 PM - Nikhil: okay sir
+12/27/23, 10:46 PM - Sushant Tech OdinEye: Have u pushed the code in your branch?
+12/27/23, 10:46 PM - Nikhil: not yet sir
+12/27/23, 10:47 PM - Sushant Tech OdinEye: Please push
+12/27/23, 10:47 PM - Nikhil: fixing the code
+12/27/23, 10:47 PM - Sushant Tech OdinEye: Will go through it once before discussing
+12/27/23, 10:47 PM - Nikhil: okay sir
+12/27/23, 10:47 PM - Sushant Tech OdinEye: Let me know once done
+12/27/23, 10:47 PM - Nikhil: okay sir
+12/27/23, 10:49 PM - Nikhil: done sir
+12/27/23, 10:50 PM - Nikhil: but need to update some code also, so will be doing it and commiting it again
+12/27/23, 10:53 PM - Sushant Tech OdinEye: you can join now
+12/27/23, 10:54 PM - Sushant Tech OdinEye: on the same link
+12/27/23, 11:22 PM - Nikhil: nikhilkumarkolli@gmail.com
+12/28/23, 3:57 PM - Nikhil: Hi sir
+12/28/23, 3:57 PM - Nikhil: can i try different model for face recognition,
+12/28/23, 3:58 PM - Sushant Tech OdinEye: Sure
+12/28/23, 3:59 PM - Nikhil: i will try sir
+12/28/23, 4:00 PM - Sushant Tech OdinEye: Any major problems wuth mtcnn?
+12/28/23, 4:00 PM - Nikhil: it is not detecting faces which are better also
+12/28/23, 4:01 PM - Nikhil: so i face recognition only it is there to locate face and detect once i will try and update accordling
+12/28/23, 4:39 PM - Nikhil: I have checked for mtcnn and face recognition model where 
+For c1 - mtcnn - 6, face_recognition - 7
+
+For c2 - mtcnn - 8, face_recognition - 9
+
+For c1 - mtcnn - 8, face_recognition - 8
+12/28/23, 4:39 PM - Nikhil: They detected face like this sir
+12/28/23, 4:44 PM - Sushant Tech OdinEye: Sure you can specify an option which will allow to select different face detection model
+12/28/23, 4:44 PM - Sushant Tech OdinEye: When we discuss in meeting tonight, we can compare performance and results
+12/28/23, 5:27 PM - Nikhil: Okay sir
+12/28/23, 10:53 PM - Sushant Tech OdinEye: Lets meet around 11:20?
+12/28/23, 10:57 PM - Nikhil: okay sir
+12/28/23, 11:32 PM - Sushant Tech OdinEye: https://meet.google.com/fqt-acgf-zuk
+please join
+12/28/23, 11:33 PM - Nikhil: Okay sir
+12/29/23, 7:27 PM - Sushant Tech OdinEye: Were u able to debug?
+12/29/23, 7:34 PM - Nikhil: Haa sir
+12/29/23, 7:34 PM - Nikhil: In meeting I will update you sir
+12/29/23, 8:56 PM - Nikhil: i have debugged sir, it is working but i need some logic guidance
+12/29/23, 8:56 PM - Nikhil: can we talk now bcoz by meeting time i will code it
+12/29/23, 8:57 PM - Nikhil: for comparing faces
+12/29/23, 10:16 PM - Sushant Tech OdinEye: Lets have a quick call today
+12/29/23, 10:16 PM - Sushant Tech OdinEye: We can have full meeting tomorrow afternoon or evening
+12/29/23, 10:27 PM - Nikhil: Okay sir
+12/29/23, 10:34 PM - Nikhil: can we have now sir?
+12/29/23, 10:35 PM - Sushant Tech OdinEye: Givr me 10 mins
+12/29/23, 10:35 PM - Nikhil: okay
+12/29/23, 10:45 PM - Sushant Tech OdinEye: Do u want to join via meet or call?
+12/29/23, 10:45 PM - Nikhil: your wish sir, according to your comfort only sir, anything is fine
+12/29/23, 10:47 PM - Sushant Tech OdinEye: https://meet.google.com/dis-mkmr-erx
+12/29/23, 10:47 PM - Sushant Tech OdinEye: https://meet.google.com/dis-mkmr-erx
+12/30/23, 1:01 AM - Nikhil: hello sir
+12/30/23, 1:09 AM - Nikhil: completed sir
+12/30/23, 1:09 AM - Nikhil: working very fine
+12/30/23, 1:12 AM - Nikhil: https://github.com/photogpt/image_cropper/tree/Nikhil
+
+please check the code sir mostly, every thing discussed was implemented
+12/30/23, 1:13 AM - Nikhil: even i have tried on images having more than two faces..
+12/30/23, 2:48 PM - Sushant Tech OdinEye: Lets have a meet today evening around 6
+12/30/23, 3:16 PM - Nikhil: Okay sir
+12/30/23, 8:10 PM - Nikhil: sir .... Meeting
+12/30/23, 8:17 PM - Sushant Tech OdinEye: Are u available now?
+12/30/23, 8:23 PM - Nikhil: Haa sir in 5 minutes
+12/30/23, 8:28 PM - Nikhil: Ready sir
+12/30/23, 8:32 PM - Sushant Tech OdinEye: Sending link
+12/30/23, 8:33 PM - Sushant Tech OdinEye: https://meet.google.com/pnz-jphh-rrx
+12/30/23, 9:24 PM - Sushant Tech OdinEye: null
+12/30/23, 11:52 PM - Nikhil: sir i have updated the code and pushed into the code in my branch 
+
+https://github.com/photogpt/image_cropper/tree/Nikhil
+12/30/23, 11:55 PM - Nikhil: my pr https://github.com/photogpt/image_cropper/pull/2
+1/1/24, 2:02 AM - Nikhil: Happy new year sir 🙂
+1/1/24, 8:52 AM - Sushant Tech OdinEye: Happy new year!!🎉
+1/1/24, 1:50 PM - Nikhil: Hello sir, you said you will mail the test cases..
+1/1/24, 5:27 PM - Sushant Tech OdinEye: Will share today
+1/1/24, 5:27 PM - Nikhil: Okay sir
+1/1/24, 5:28 PM - Nikhil: Another thing sir, regarding stipend when I can expect sir.
+1/2/24, 11:20 AM - Sushant Tech OdinEye: Confirm with sunil regarding exact specifications
+1/2/24, 11:21 AM - Sushant Tech OdinEye: Also am travelling this week so might be delayed in sharing the other test cases. In the meantime you can start working on the next scenario in cropping we discussed
+1/2/24, 11:26 AM - Nikhil: okay sir, I need to do for the worst case of all multiple faces right
+1/2/24, 11:33 AM - Sushant Tech OdinEye: Yes
+1/2/24, 11:33 AM - Nikhil: Okay sir
+1/3/24, 12:32 PM - Nikhil: Hello sir, can we have google meet
+1/3/24, 1:17 PM - Sushant Tech OdinEye: Lets try to do today evening
+1/3/24, 1:28 PM - Nikhil: Okay sir
+1/3/24, 6:18 PM - Nikhil: I am done with my code but I have some doubts sir
+1/3/24, 7:03 PM - Sushant Tech OdinEye: Sure lets meet around 11
+1/3/24, 7:09 PM - Nikhil: Okay sir
+1/3/24, 10:51 PM - Nikhil: I am ready sir for meet
+1/3/24, 11:15 PM - Sushant Tech OdinEye: Sure give me 15 mins
+1/3/24, 11:22 PM - Nikhil: okay sir
+1/3/24, 11:32 PM - Sushant Tech OdinEye: https://meet.google.com/wip-jgjy-dch
